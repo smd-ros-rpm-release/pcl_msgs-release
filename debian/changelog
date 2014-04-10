@@ -1,0 +1,37 @@
+ros-indigo-pcl-msgs (0.2.0-0saucy) saucy; urgency=high
+
+  * clean up package.xml
+  * update maintainer info
+  * remove eigen dependency
+  * Merge pull request #1 <https://github.com/ros-perception/pcl_msgs/issues/1> from bulwahn/patch-1
+  * Contributors: Lukas Bulwahn, Paul Bovbel
+
+ -- Paul Bovbel <paul@bovbel.com>  Wed, 09 Apr 2014 00:00:00 -0000
+
+ros-indigo-pcl-msgs (0.1.0-0saucy) saucy; urgency=high
+
+  * Generate messages into the pcl_msgs namespace rather than the pcl namespace
+
+ -- Julius Kammerl <jkammerl@willowgarage.com>  Tue, 09 Jul 2013 00:00:00 -0000
+
+ros-indigo-pcl-msgs (0.0.3-0saucy) saucy; urgency=high
+
+  * fix deps for messages
+  * Updated for new <buildtool_depend>catkin<...> rule
+
+ -- Julius Kammerl <jkammerl@willowgarage.com>  Sat, 15 Dec 2012 00:00:00 -0000
+
+ros-indigo-pcl-msgs (0.0.2-0saucy) saucy; urgency=high
+
+  * increasing version
+  * ros message generation prefix hack
+
+ -- Julius Kammerl <jkammerl@willowgarage.com>  Mon, 26 Nov 2012 18:50:00 -0000
+
+ros-indigo-pcl-msgs (0.0.1-0saucy) saucy; urgency=high
+
+  * initial commit - pcl ROS messages
+
+ -- Julius Kammerl <jkammerl@willowgarage.com>  Mon, 26 Nov 2012 17:48:00 -0000
+
+
