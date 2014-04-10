@@ -1,3 +1,22 @@
+## pcl_msgs (indigo) - 0.2.0-0
+
+User `paul@asblab-paulpc` released the packages in the `pcl_msgs` repository into the `indigo` distro by running `/usr/bin/bloom-release pcl_msgs --track indigo --rosdistro indigo --edit` on `Thu, 10 Apr 2014 14:34:36 -0000`
+
+The `pcl_msgs` package was released.
+
+Version of package(s) in repository `pcl_msgs`:
+- rosdistro version: `0.1.0-1`
+- old version: `0.1.0-3`
+- new version: `0.2.0-0`
+
+Versions of tools used:
+- bloom version: `0.5.2`
+- catkin_pkg version: `0.1.28`
+- rosdep version: `0.10.25`
+- rosdistro version: `0.3.4`
+- vcstools version: `0.1.33`
+
+
 ## pcl_msgs (indigo) - 0.1.0-3
 
 User `paul@asblab-paulpc` released the packages in the `pcl_msgs` repository into the `indigo` distro by running `/usr/bin/bloom-release pcl_msgs --track indigo --rosdistro indigo` on `Thu, 10 Apr 2014 14:29:44 -0000`
